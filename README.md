@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sahib1610
 - 👀 I’m interested in Making new websites
-- 🌱 I’m currently learning python, HTML, css and java script
-- 💞️ I’m looking to collaborate on youtube
+- 🌱 I’m currently learning python, HTML,CSS,Javascript,C And C++ 
 - 📫 You Can reach me on my email ID sahibnarula106@gmail.com
 
 <!---
